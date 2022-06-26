@@ -5,9 +5,9 @@ module.exports = {
   meta: {
     version: '2.1.5',
     preciseCheck: true,
-    author: '[XinXyla - 172782058396057602]',
-    authorUrl: 'https://github.com/DBM-Brazil/mods',
-    downloadURL: 'https://github.com/DBM-Brazil/mods',
+    author: '[XinXyla - 172782058396057602, Translated on English - Blackie - 390344792883855382]',
+    authorUrl: 'https://github.com/BLACKFIRE228/Mods-Actions',
+    downloadURL: 'https://github.com/BLACKFIRE228/Mods-Actions',
     },
 
   subtitle(data, presets) {
